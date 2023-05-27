@@ -4,9 +4,9 @@ Generated from markdown files
 
 ## Some things to get started
 
-- [How to get started](http://localhost:8080/index.html?src=md/INDEX.md)
-- [Dependencies of this project](http://localhost:8080/index.html?src=md/DEPENDENCIES.md)
-- [How to install](http://localhost:8080/index.html?src=md/INSTALL.md)
+- [How to get started](/index.html?src=md/INDEX.md)
+- [Dependencies of this project](/index.html?src=md/DEPENDENCIES.md)
+- [How to install](/index.html?src=md/INSTALL.md)
 
 ## Why not
 
