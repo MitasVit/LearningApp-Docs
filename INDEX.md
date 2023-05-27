@@ -4,9 +4,10 @@ Generated from markdown files
 
 ## Some things to get started
 
-- [How to get started](/index.html?src=md/INDEX.md)
-- [Dependencies of this project](/index.html?src=md/DEPENDENCIES.md)
-- [How to install](/index.html?src=md/INSTALL.md)
+- [How to get started](/LearningApp-Docs/index.html?src=md/INDEX.md)
+- [Dependencies of this project](/LearningApp-Docs/index.html?src=md/DEPENDENCIES.md)
+- [How to install](/LearningApp-Docs/index.html?src=md/INSTALL.md)
+- [Math layer](/LearningApp-Docs/index.html?src=md/math/INDEX.md)
 
 ## Why not
 
